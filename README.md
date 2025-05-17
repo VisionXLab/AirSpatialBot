@@ -9,7 +9,7 @@
     <a href='https://www.researchgate.net/profile/Xingzhao-Liu/' target='_blank'>Xingzhao Liu</a>&emsp;
 </div>
 <div>
-    Shanghai Jiaotong University&emsp; 
+    Shanghai Jiao Tong University&emsp; 
 </div>
 
 [![Paper](https://img.shields.io/badge/IEEE_TGRS-Paper-blue.svg)](https://ieeexplore.ieee.org/document/11006099)
