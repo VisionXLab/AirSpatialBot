@@ -15,7 +15,6 @@
 [![Paper](https://img.shields.io/badge/IEEE_TGRS-Paper-blue.svg)](https://ieeexplore.ieee.org/document/11006099)
 
 
-
 </div>
 
 <p align="center">
@@ -27,7 +26,7 @@
 ## 📢 Latest Updates
 
 
-- This repository has been migrated to a new [address](https://github.com/VisionXLab/AirSpatialBot). Please refer to the new location for future updates.
+- [ ] **[2025.05.17]** We will release the AirSpatialBot weights, datasets and code as soon as possible.
 
 ---
 
