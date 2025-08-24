@@ -1,0 +1,43 @@
+
+
+  GPT4V:
+    model_name: "gpt-4-vision-preview"
+    openai_api_key: "sk-xxx"
+    target_url: "https://api.fast-tunnel.one/v1/chat/completions"
+  
+  gpt-4o:
+    model_name: "gpt-4o"
+    openai_api_key: "sk-xxx"
+    target_url: "https://api.fast-tunnel.one/v1/chat/completions"
+
+
+  internvl2-8b:
+    model_name: "/path/to/models--OpenGVLab--InternVL2-8B/snapshots/bf5df27a64fb28d62ebb77313220a335da7a96bc"
+    openai_api_key: "OUR_API_KEY"
+    target_url: "http://127.0.0.1:23342/v1/chat/completions"
+
+  internvl2-40b:
+    model_name: "/path/to/models--OpenGVLab--InternVL2-40B/snapshots/17a1cb69ed4b5c2802e38113c66506d2a2af2606"
+    openai_api_key: "OUR_API_KEY"
+    target_url: "http://127.0.0.1:23342/v1/chat/completions"
+
+  internvl2-40b-2:
+    model_name: "/path/to/models--OpenGVLab--InternVL2-40B/snapshots/17a1cb69ed4b5c2802e38113c66506d2a2af2606"
+    openai_api_key: "OUR_API_KEY"
+    target_url: "http://127.0.0.1:23342/v1/chat/completions"
+
+  llava-7b:
+    model_name: "/path/to/llava-v1.5-7b/"
+    openai_api_key: "OUR_API_KEY"
+    target_url: "http://127.0.0.1:23342/v1/chat/completions"
+
+  airspatialbot:
+    model_name: "/path/to/llava-v1.5-7b-task-lora-refgeo-d103-merged/"
+    openai_api_key: "OUR_API_KEY"
+    target_url: "http://127.0.0.1:23342/v1/chat/completions"
+
+
+  # Common settings for all models
+  temperature: 0.0
+  top_p: 1.0
+  max_tokens: 500

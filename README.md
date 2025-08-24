@@ -13,7 +13,7 @@
 </div>
 
 [![Paper](https://img.shields.io/badge/IEEE_TGRS-Paper-blue.svg)](https://ieeexplore.ieee.org/document/11006099)
-
+[![Dataset](https://img.shields.io/badge/HuggingFace-Model-blue)](https://huggingface.co/erenzhou/AirSpatialBot)
 
 </div>
 
@@ -25,8 +25,8 @@
 
 ## 📢 Latest Updates
 
-
-- [ ] **[2025.05.17]** We will release the AirSpatialBot weights, datasets and code as soon as possible.
+- **[2025.08.24]** We released the AirSpatialBot weights, datasets and code.
+- **[2025.05.17]** We released the AirSpatialBot paper.
 
 ---
 
