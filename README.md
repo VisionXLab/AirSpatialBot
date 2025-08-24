@@ -13,6 +13,7 @@
 </div>
 
 [![Paper](https://img.shields.io/badge/IEEE_TGRS-Paper-blue.svg)](https://ieeexplore.ieee.org/document/11006099)
+[![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/erenzhou/AirSpatial)
 [![Dataset](https://img.shields.io/badge/HuggingFace-Model-blue)](https://huggingface.co/erenzhou/AirSpatialBot)
 
 </div>
