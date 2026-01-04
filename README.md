@@ -26,6 +26,7 @@
 
 ## 📢 Latest Updates
 
+- **[2026.01.01]** [Click](https://github.com/zytx121/Awesome-RS-VL-Data) for the latest trends in **Remote Sensing Vision-Language Datasets and Models**.
 - **[2025.08.24]** We released the AirSpatialBot weights, datasets and code.
 - **[2025.05.17]** We released the AirSpatialBot paper.
 
